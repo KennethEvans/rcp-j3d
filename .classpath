@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="vecmath.jar" sourcepath="vecmath-1_5_2-src.zip">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="net.kenevans.j3d/os/win32-x86"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="j3dcore.jar" sourcepath="j3d-1_5_2-src.zip">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="net.kenevans.j3d/os/win32-x86"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="j3dutils.jar" sourcepath="j3d-1_5_2-src.zip">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="net.kenevans.j3d/os/win32-x86"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
