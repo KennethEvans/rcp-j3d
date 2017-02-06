@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: J3D
-Bundle-SymbolicName: net.kenevans.j3d
+Bundle-SymbolicName: net.kenevans.rcp.j3d
 Bundle-Version: 1.5.2
 Bundle-ClassPath: vecmath.jar,
  j3dcore.jar,
